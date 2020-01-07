@@ -1,0 +1,236 @@
+body, #myPage {
+      font-family: 400 Fira Sans, sans-serif;
+      line-height: 1.8;
+      color: #818181;
+  }
+
+#logo{
+  position: fixed;
+  top:0%;
+  width: 266.4px;
+  height: 61.6px;
+}
+
+#orange{
+  color:#F18D00;
+}
+
+/*homepage*/
+
+.bground-section{
+  width: 100%;
+  padding: 10% 0;
+  color: #7DD1FF;
+  line-height: 1.3;
+  font-family: Fira Sans, sans-serif;
+  background: url(../images/background1.jpg) no-repeat center center scroll;
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+#bground-h31, #bground-h32 {
+  padding-top: 25%;
+  font-size: 27px;
+}
+
+  .bg-blue {
+      background-color: #7DD1FF;
+      color: #ffffff;
+      padding: 1% 1% 1% 1%;
+      border: none;
+  }
+
+  #explore{
+     font-family: Droid Serif, serif;
+     font-size: 22px;
+     line-height: 1.2;
+  }
+  .thumbnail {
+      padding: 0 0 15px 0;
+      border: none;
+      border-radius: 0;
+  }
+  .thumbnail img {
+      width: 100%;
+      height: 100%;
+      margin-bottom: 10px;
+  }
+  .item span {
+      font-style: normal;
+  }
+  .navbar, #myNavbar {
+      margin-bottom: 0;
+      background-color: #7DD1FF !important;
+      z-index: 9999;
+      border: 0;
+      font-size: 20px !important;
+      line-height: 1.42857143 !important;
+      letter-spacing: 4px;
+      border-radius: 0;
+      font-family: Fira Sans, sans-serif;
+  }
+  .navbar li a, .navbar .navbar-brand {
+      color: #ffffff !important;
+  }
+  .navbar-nav li a:hover, .navbar-nav li.active a {
+      color: #F18D00 !important;
+      background-color: #ffffff !important;
+  }
+  .navbar-default .navbar-toggle {
+      border-color: transparent;
+      color: #ffffff !important;
+  }
+
+  #button1, #button2, #button3 {
+    background-color: #F19839;
+    color: #ffffff;
+    border: none;
+    font-family: Fira Sans, sans-serif;
+  }
+
+.credits{
+  font-family: Droid Serif, serif;
+  font-size: 10px;
+}
+
+/*wind page*/
+
+#introduction-wind{
+  padding-top: 20%;
+  font-size: 20px;
+  font-family: Droid Serif, serif;
+  color: #818181;
+}
+
+.bground-section-wind{
+  width: 100%;
+  height: 100%;
+  padding: 25% 0 20% 0;
+  color: #ffffff;
+  line-height: 1.3;
+  font-family: Fira Sans, sans-serif;
+  background: url(../images/wind2.jpg) no-repeat center center scroll;
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+.bg-grey{
+    background-color: #818181;
+    color: #ffffff;
+    padding: 3% 3% 3% 3%;
+    border: none;
+}
+
+#button-go{
+  background-color: #F19839;
+  color: #ffffff;
+  margin-bottom: 3%;
+  font-family: Fira Sans, sans-serif;
+  font-size: 20px;
+}
+
+#button-go-qa{
+  background-color: #F19839;
+  color: #ffffff;
+  border: none;
+  font-family: Fira Sans, sans-serif;
+  font-size: 20px;
+}
+
+
+/*coal page*/
+
+#introduction-coal{
+  padding-top: 20%;
+  font-size: 20px;
+  font-family: Droid Serif, serif;
+  color: #ffffff;
+}
+
+.bground-section-coal{
+  width: 100%;
+  height: 100%;
+  padding: 25% 0 20% 0;
+  color: #ffffff;
+  line-height: 1.3;
+  font-family: Fira Sans, sans-serif;
+  background: url(../images/coal2.jpg) no-repeat center center scroll;
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+.bg-qa {
+    background-color: #7DD1FF;
+    color: #818181;
+    padding: 1% 1% 1% 1%;
+    border: none;
+}
+
+#qaform-coal{
+  font-family: Droid Serif, serif;
+  font-size: 16px;
+  line-height: 1.2;
+  color:#818181;
+}
+
+#coal-title{
+  font-family: Fira Sans, sans-serif;
+  color: #ffffff;
+}
+
+#coal-intro{
+  font-family: Droid Serif, serif;
+  font-size: 18px;
+  line-height: 1.2;
+  color:#818181;
+}
+
+.panel-title{
+  color: #F18D00 !important;
+  font-family: Fira Sans, sans-serif;
+}
+
+/*electricity page*/
+
+#introduction-elec{
+  padding-top: 20%;
+  font-size: 20px;
+  font-family: Droid Serif, serif;
+  color: #ffffff;
+}
+
+.bground-section-elec{
+  width: 100%;
+  height: 100%;
+  padding: 25% 0 20% 0;
+  color: #ffffff;
+  line-height: 1.3;
+  font-family: Fira Sans, sans-serif;
+  background: url(../images/grid.jpg) no-repeat center center scroll;
+  background-color: black;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+}
+
+#article-elec{
+  padding: 2% 2% 2% 2%;
+  font-family: Droid Serif, serif;
+  line-height: 1.5;
+  font-size: 18px;
+}
+
+#title-elec{
+  font-family: Fira Sans, sans-serif;
+  color: #F18D00;
+}
+#subtitle-elec{
+  font-family: Fira Sans, sans-serif;
+  color: #F18D00;
+}
